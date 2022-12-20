@@ -1,0 +1,44 @@
+site_name: AGEO Platform
+site_url: https://ageoplatform.eu/
+site_description: >-
+  A project funded by INTERREG ATLANTIC AREA
+# repo_name: ...
+# repo_url: ...
+copyright: AGEO Atlantic
+
+
+
+nav:
+  - Introduction: 
+    - Intro: introduction/index.md
+    - Contribute: introduction/contribute.md
+  - DB Schema:
+    - User: dbschema/user.md
+    - Event: dbschema/event.md
+  - User Management:
+    - Introduction: user/intro.md
+    - Admin: user/admin.md  
+    - Manager: user/manager.md
+    - API User: user/apiuser.md
+    - Anonymous: user/anonymous.md
+  - Event Reporting: index.md
+  - Educational Content: index.md
+
+theme:
+  name: material
+  logo: assets/logo-icon-white.png
+  favicon: assets/logo-icon-white.png
+  palette:
+    scheme: default
+    primary: light blue
+    accent: green
+  feature:
+    tabs: true
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - navigation.expand
