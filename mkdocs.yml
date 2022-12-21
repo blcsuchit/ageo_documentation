@@ -21,7 +21,8 @@ nav:
     - Manager: user/manager.md
     - API User: user/apiuser.md
     - Anonymous: user/anonymous.md
-  - Event Reporting: index.md
+  - Event Reporting:
+    - Monitor Event: reporting/report_event.md
   - Educational Content: index.md
 
 theme:
@@ -42,3 +43,11 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.expand
+markdown_extensions:
+- admonition
+- attr_list
+- md_in_html
+- pymdownx.details
+- pymdownx.superfences
+plugins:
+  - glightbox
