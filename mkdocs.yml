@@ -23,6 +23,7 @@ nav:
     - Anonymous: user/anonymous.md
   - Event Reporting:
     - Monitor Event: reporting/report_event.md
+    - Quick Monitor: reporting/quick_report.md
   - Educational Content: index.md
 
 theme:
