@@ -23,8 +23,7 @@ nav:
     - Introduction: user/intro.md
     - Admin: user/admin.md  
     - Manager: user/manager.md
-    - API User: user/apiuser.md
-    - Anonymous: user/anonymous.md
+    - API/Anonymous User: user/apiuser.md
   - DB Schema:
     - User: dbschema/user.md
     - Event: dbschema/event.md
