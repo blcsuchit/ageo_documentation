@@ -29,6 +29,7 @@ nav:
     - User: dbschema/user.md
     - Event: dbschema/event.md
   - Educational Content: education.md
+  - Deployment: deployment.md
 
 theme:
   name: material
