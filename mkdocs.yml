@@ -10,20 +10,25 @@ copyright: AGEO Atlantic
 
 nav:
   - Introduction: 
-    - Intro: introduction/index.md
+    - Intro: index.md
     - Contribute: introduction/contribute.md
-  - DB Schema:
-    - User: dbschema/user.md
-    - Event: dbschema/event.md
+  - Event Reporting:
+    - Monitor Event: reporting/report_event.md
+    - Quick Monitor: reporting/quick_report.md
+  - Event Management:
+    - Introduction: event_management/event_management.md
+    - Map View: event_management/map_view.md
+    - Table View: event_management/table_view.md
   - User Management:
     - Introduction: user/intro.md
     - Admin: user/admin.md  
     - Manager: user/manager.md
     - API User: user/apiuser.md
     - Anonymous: user/anonymous.md
-  - Event Reporting:
-    - Monitor Event: reporting/report_event.md
-  - Educational Content: index.md
+  - DB Schema:
+    - User: dbschema/user.md
+    - Event: dbschema/event.md
+  - Educational Content: education.md
 
 theme:
   name: material
@@ -43,6 +48,8 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.expand
+    - toc.follow
+
 markdown_extensions:
 - admonition
 - attr_list
