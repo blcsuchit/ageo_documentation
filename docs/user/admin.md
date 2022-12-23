@@ -1,4 +1,4 @@
-## To control the platform, you must login as an admin
+<h3>To control the platform, you must login as an admin</h3>
  Login to the platform using the following <a href="https://ageoplatform.eu/auth/login"> 'Login Link' </a>
 
 <image src="\assets\reporting\admin-login.png">

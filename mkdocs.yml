@@ -24,11 +24,17 @@ nav:
     - Admin: user/admin.md  
     - Manager: user/manager.md
     - API/Anonymous User: user/apiuser.md
-  - DB Schema:
-    - User: dbschema/user.md
-    - Event: dbschema/event.md
+  # - DB Schema:
+  #   - User: dbschema/user.md
+  #   - Event: dbschema/event.md
   - Educational Content: education.md
-  - Deployment: deployment.md
+  # - Deployment: deployment.md
+  - Technical Documentation:
+    - Tech Stack: techstack.md
+    - DB Schema: 
+      - User: dbschema/user.md
+      - Event: dbschema/event.md
+    - Deployment: deployment.md
 
 theme:
   name: material
