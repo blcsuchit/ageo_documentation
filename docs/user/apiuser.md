@@ -33,6 +33,11 @@ The user can select any event and view the details present
 
 - They shall be given an API key which they can use to integrate in their system to get the information about all the events that are being uploaded on our platform.
 
+API Users can use standlone APIs to fetch event data directly to the server. Please view <a href="https://ageoplatform.eu/api/opensearch/"> this documentation </a> for reference.
+
+<img src="\assets\swagger.png">
+<br>
+<br>
 <image src="\assets\reporting\APIuser.png">
 
 - The user can view their API key by clicking on 'My Profile' from the navigation bar. 
