@@ -11,7 +11,7 @@ copyright: AGEO Atlantic
 nav:
   - Introduction: 
     - Intro: index.md
-    - Contribute: introduction/contribute.md
+    # - Contribute: introduction/contribute.md
   - Event Reporting:
     - Monitor Event: reporting/report_event.md
     - Quick Monitor: reporting/quick_report.md

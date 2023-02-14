@@ -18,6 +18,8 @@ This is an open source effort at AGEO to provide the most highest quality applic
 - `virtualenv venv` - Create a new virtualenv
 - `source ./venv/bin` - Activate this virtual environment
 - `pip install -r requirements.txt` - Install python deps
+- `pip install mkdocs-material` - Install mkdocs-material plugin
+- `pip install mkdocs-glightbox` - Install mkdocs-glightbox plugin
 
 ## Commands
 
